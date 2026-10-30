@@ -1,6 +1,4 @@
 # Courier_Management_springboot
-
-[![CI](https://github.com/Mudabbirarafat/Courier_Management_springboot/actions/workflows/ci.yml/badge.svg)](https://github.com/Mudabbirarafat/Courier_Management_springboot/actions/workflows/ci.yml)
 A web-based application built using Spring Boot that streamlines the process of booking, managing, and tracking courier shipments. Designed for admins and customers to easily manage courier operations in real time.
 
 
